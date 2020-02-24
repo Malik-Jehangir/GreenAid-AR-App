@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{922D3AD6-9EA6-C1F2-83A3-B8D9343E1ED1}") = "GreenAid3D_app", "Assembly-CSharp.csproj", "{166530CB-F0EB-7AF6-195A-D6C7756387ED}"
+EndProject
+Project("{922D3AD6-9EA6-C1F2-83A3-B8D9343E1ED1}") = "GreenAid3D_app", "Assembly-CSharp-Editor.csproj", "{756360C2-6A27-8C08-3798-22476730610E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166530CB-F0EB-7AF6-195A-D6C7756387ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166530CB-F0EB-7AF6-195A-D6C7756387ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166530CB-F0EB-7AF6-195A-D6C7756387ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166530CB-F0EB-7AF6-195A-D6C7756387ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756360C2-6A27-8C08-3798-22476730610E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756360C2-6A27-8C08-3798-22476730610E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756360C2-6A27-8C08-3798-22476730610E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756360C2-6A27-8C08-3798-22476730610E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
